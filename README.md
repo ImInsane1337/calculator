@@ -9,5 +9,5 @@
 1. **Клонируйте репозиторий:**
    ```bash
    git clone https://github.com/ImInsane1337/calculator.git
-   cd angle-calculator
-  python angle_calculator.py```
+   cd calculator
+   python calculator.py
